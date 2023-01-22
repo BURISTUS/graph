@@ -21,9 +21,11 @@ To test project
 cargo test
 #+end_src
 
+
 ** TODO
+#+begin_src
 [X] Simple functional
 [ ] Deserialization for generic data format
 [ ] Root node
 [ ] Serialize/Deserialize trivial graph format
-
+#+end_src

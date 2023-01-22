@@ -1,0 +1,23 @@
+* Graph lib with basic functional
+** Project structure
+*** src
+**** graph.rs <- main functional of lib and tests
+**** lib.rs
+**** main.rs <- check functional of lib
+*** Cargo.toml
+*** graph.json <- json data
+*** graph_test.json <- json data for tests
+
+** Build and test
+To run project
+#+begin_src cargo run #+end_src
+
+To test project
+#+begin_src cargo test #+end_src
+
+** TODO
+[X] Simple functional
+[ ] Deserialization for generic data format
+[ ] Root node
+[ ] Serialize/Deserialize trivial graph format
+

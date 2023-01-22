@@ -1,0 +1,1 @@
+{"nodes":[{"id":0,"label":"A"},{"id":1,"label":"B"},{"id":2,"label":"C"},{"id":3,"label":"D"},{"id":4,"label":"E"},{"id":5,"label":"H"}],"edges":[{"source":0,"target":2},{"source":1,"target":3},{"source":2,"target":3},{"source":3,"target":4},{"source":4,"target":5}]}

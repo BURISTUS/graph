@@ -25,7 +25,7 @@ cargo test
 ** Todo
 #+begin_src
 [X] Simple functional
-[ ] Deserialization for generic data format
+[ ] Generic representation of graph
 [ ] Root node
 [ ] Serialize/Deserialize trivial graph format
 #+end_src
